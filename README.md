@@ -2,7 +2,7 @@
   An example RFID based access control system that i completed during my 3rd year of Engineering
   
 ## Overview 
-    A RFID is similar to the NFC tags that are now present in almost all of the modern cellphones.Using RFID its possible to uniquely identify an item.
+  A RFID is similar to the NFC tags that are now present in almost all of the modern cellphones.Using RFID its possible to uniquely identify an item.
   
   As I was studying my bachelor degree,i was introduced to micro controller(8051) and i used 8051 micro controller to build an RFID based access control system.
   
