@@ -72,7 +72,7 @@
 
 ## Software
 
-The hardware was written in c using Keil uVision.
+The software was written in c using Keil uVision.
 
 ## why add it to Github
 
